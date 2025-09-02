@@ -1,0 +1,21 @@
+# Build outputs
+dist/
+build/
+tasks/*.md
+
+# Dependencies
+node_modules/
+
+# Logs
+*.log
+
+# Generated files
+coverage/
+
+# OS files
+.DS_Store
+
+# Lock files
+bun.lockb
+package-lock.json
+yarn.lock
